@@ -1,0 +1,178 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Live Tv" tvg-server="Server 1",BTV (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
+
+#EXTINF:-1 tvg-name="71 TV" group-title="Live Tv" tvg-server="Server 1",71 TV (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN BANGLA" group-title="Live Tv" tvg-server="Server 1",ATN BANGLA (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN NEWS" group-title="Live Tv" tvg-server="Server 1",ATN NEWS (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-name="BanglaVision" group-title="Live Tv" tvg-server="Server 1",BanglaVision (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24" group-title="Live Tv" tvg-server="Server 1",Channel 24 (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" group-title="Live Tv" tvg-server="Server 1",Channel 9 (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 tvg-name="Channel I" group-title="Live Tv" tvg-server="Server 1",Channel I (1)
+https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
+
+#EXTINF:-1 tvg-name="A Sports" group-title="Live Tv" tvg-server="Server 1",A Sports (1)
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="AL SUNNAH AL NABAWIYAH TV" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic" tvg-server="Server 1",AL SUNNAH AL NABAWIYAH TV (1)
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-name="ALJAZEERA" group-title="Live Tv" tvg-server="Server 1",ALJAZEERA (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-name="BuddyStar" group-title="Live Tv" tvg-server="Server 1",BuddyStar (1)
+https://nomawnoijl.gpcdn.net/akash/buddystar/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Cineedge" group-title="Live Tv" tvg-server="Server 1",Cineedge (1)
+https://nomawnoijl.gpcdn.net/akash/cineedge/chunks.m3u8
+
+#EXTINF:-1 tvg-name="CN HD" group-title="Live Tv" tvg-server="Server 1",CN HD (1)
+http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla Cinema" group-title="Live Tv" tvg-server="Server 1",Colors Bangla Cinema (1)
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Crazy_ex" group-title="Live Tv" tvg-server="Server 1",Crazy_ex (1)
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/chunks.m3u8
+#EXTINF:-1 tvg-name="Crime" group-title="Live Tv" tvg-server="Server 1",Crime (1)
+https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
+#EXTINF:-1 tvg-name="Delicious" group-title="Live Tv" tvg-server="Server 1",Delicious (1)
+https://nomawnoijl.gpcdn.net/akash/delicious/chunks.m3u8
+#EXTINF:-1 tvg-name="Dippto TV" group-title="Live Tv" tvg-server="Server 1",Dippto TV (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="Discovery" group-title="Live Tv" tvg-server="Server 1",Discovery (1)
+http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Disney Kids" group-title="Live Tv" tvg-server="Server 1",Disney Kids (1)
+http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Durronto TV" group-title="Live Tv" tvg-server="Server 1",Durronto TV (1)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-1" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-1 (1)
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-2" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-2 (1)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-3" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-3 (1)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-4" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-4 (1)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-5" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-5 (1)
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-6" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-6 (1)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-7" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-7 (1)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-8" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-8 (1)
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-name="FIFA WORLD CUP LIVE-9" group-title="Live Tv" tvg-server="Server 1",FIFA WORLD CUP LIVE-9 (1)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="Fighter" group-title="Live Tv" tvg-server="Server 1",Fighter (1)
+https://nomawnoijl.gpcdn.net/akash/fighter/chunks.m3u8
+#EXTINF:-1 tvg-name="Flash Guys" group-title="Live Tv" tvg-server="Server 1",Flash Guys (1)
+https://nomawnoijl.gpcdn.net/akash/flashguys/chunks.m3u8
+#EXTINF:-1 tvg-name="Funny Junior" group-title="Live Tv" tvg-server="Server 1",Funny Junior (1)
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8
+#EXTINF:-1 tvg-name="G-TV" group-title="Live Tv" tvg-server="Server 1",G-TV (1)
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT" group-title="Live Tv" tvg-server="Server 1",INDEPENDENT (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT" group-title="Live Tv" tvg-server="Server 2",INDEPENDENT (2)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+#EXTINF:-1 tvg-name="Intelligence" group-title="Live Tv" tvg-server="Server 1",Intelligence (1)
+https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8
+#EXTINF:-1 tvg-name="Islamic TV" group-title="Live Tv" tvg-server="Server 1",Islamic TV (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="Jamuna" group-title="Live Tv" tvg-server="Server 1",Jamuna (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name="Jamuna" group-title="Live Tv" tvg-server="Server 2",Jamuna (2)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-name="Joy" group-title="Live Tv" tvg-server="Server 1",Joy (1)
+https://nomawnoijl.gpcdn.net/akash/joy/chunks.m3u8
+#EXTINF:-1 tvg-name="Kids Star" group-title="Live Tv" tvg-server="Server 1",Kids Star (1)
+https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8
+#EXTINF:-1 tvg-name="Lucky Family" group-title="Live Tv" tvg-server="Server 1",Lucky Family (1)
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/chunks.m3u8
+#EXTINF:-1 tvg-name="Luxell" group-title="Live Tv" tvg-server="Server 1",Luxell (1)
+https://nomawnoijl.gpcdn.net/akash/luxell/chunks.m3u8
+#EXTINF:-1 tvg-name="Makka live" tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="Islamic" tvg-server="Server 1",Makka live (1)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="MASSRANGA" group-title="Live Tv" tvg-server="Server 1",MASSRANGA (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-name="N TV" group-title="Live Tv" tvg-server="Server 1",N TV (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-name="Nagorik" group-title="Live Tv" tvg-server="Server 1",Nagorik (1)
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="National Geography" group-title="Live Tv" tvg-server="Server 1",National Geography (1)
+http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="NEWS 24" group-title="Live Tv" tvg-server="Server 1",NEWS 24 (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-name="NEWS 24" group-title="Live Tv" tvg-server="Server 2",NEWS 24 (2)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
+#EXTINF:-1 tvg-name="Nikky" group-title="Live Tv" tvg-server="Server 1",Nikky (1)
+https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8
+#EXTINF:-1 tvg-name="Originals" group-title="Live Tv" tvg-server="Server 1",Originals (1)
+https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
+#EXTINF:-1 tvg-name="Party Univers" group-title="Live Tv" tvg-server="Server 1",Party Univers (1)
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
+#EXTINF:-1 tvg-name="Peace Tv Bangla" group-title="Live Tv" tvg-server="Server 1",Peace Tv Bangla (1)
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-name="PTV" group-title="Live Tv" tvg-server="Server 1",PTV (1)
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
+#EXTINF:-1 tvg-name="SA TV" group-title="Live Tv" tvg-server="Server 1",SA TV (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
+#EXTINF:-1 tvg-name="Sangsad" group-title="Live Tv" tvg-server="Server 1",Sangsad (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-name="Screem" group-title="Live Tv" tvg-server="Server 1",Screem (1)
+https://nomawnoijl.gpcdn.net/akash/screem/chunks.m3u8
+#EXTINF:-1 tvg-name="Smarty" group-title="Live Tv" tvg-server="Server 1",Smarty (1)
+https://nomawnoijl.gpcdn.net/akash/smarty/chunks.m3u8
+#EXTINF:-1 tvg-name="Somoy" group-title="Live Tv" tvg-server="Server 1",Somoy (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="Somoy" group-title="Live Tv" tvg-server="Server 2",Somoy (2)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="Sony AAth" group-title="Live Tv" tvg-server="Server 1",Sony AAth (1)
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony MAX" group-title="Live Tv" tvg-server="Server 1",Sony MAX (1)
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony TV" group-title="Live Tv" tvg-server="Server 1",Sony TV (1)
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="sportrange" group-title="Live Tv" tvg-server="Server 1",sportrange (1)
+https://nomawnoijl.gpcdn.net/akash/sportrange/chunks.m3u8
+#EXTINF:-1 tvg-name="Sports Legends" group-title="Live Tv" tvg-server="Server 1",Sports Legends (1)
+https://nomawnoijl.gpcdn.net/akash/sportslegends/chunks.m3u8
+#EXTINF:-1 tvg-name="SRK TV" group-title="Live Tv" tvg-server="Server 1",SRK TV (1)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Gold" group-title="Live Tv" tvg-server="Server 1",Star Gold (1)
+http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Live Tv" tvg-server="Server 1",Star Jalsha (1)
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 tvg-name="Star Movies" group-title="Live Tv" tvg-server="Server 1",Star Movies (1)
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star News" group-title="Live Tv" tvg-server="Server 1",Star News (1)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+#EXTINF:-1 tvg-name="Star Plus" group-title="Live Tv" tvg-server="Server 1",Star Plus (1)
+http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Superrix" group-title="Live Tv" tvg-server="Server 1",Superrix (1)
+https://nomawnoijl.gpcdn.net/akash/superrix/chunks.m3u8
+#EXTINF:-1 tvg-name="T-Sports" group-title="Live Tv" tvg-server="Server 1",T-Sports (1)
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T-Sports" group-title="Live Tv" tvg-server="Server 2",T-Sports (2)
+https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1776683589&token=38e2154342a8b1c5018d53638e8ad87e&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+#EXTINF:-1 tvg-name="Thunder Er" group-title="Live Tv" tvg-server="Server 1",Thunder Er (1)
+https://nomawnoijl.gpcdn.net/akash/thunder/chunks.m3u8
+#EXTINF:-1 tvg-name="Truestory" group-title="Live Tv" tvg-server="Server 1",Truestory (1)
+https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8
+#EXTINF:-1 tvg-name="Uniques" group-title="Live Tv" tvg-server="Server 1",Uniques (1)
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla Sonar" group-title="Live Tv" tvg-server="Server 1",Zee Bangla Sonar (1)
+http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
+#EXTINF:-1 tvg-name="Zee TV" group-title="Live Tv" tvg-server="Server 1",Zee TV (1)
+http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8

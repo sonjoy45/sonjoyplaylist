@@ -2,28 +2,28 @@
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Live Tv" tvg-server="Server 1",BTV (1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
 
-#EXTINF:-1 tvg-name="71 TV" group-title="Live Tv" tvg-server="Server 1",71 TV (1)
+#EXTINF:-1 tvg-name="71 TV" group-title="Live Tv" tvg-server="Server 1",71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-name="ATN BANGLA" group-title="Live Tv" tvg-server="Server 1",ATN BANGLA (1)
+#EXTINF:-1 tvg-name="ATN BANGLA" group-title="Live Tv" tvg-server="Server 1",ATN BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-name="ATN NEWS" group-title="Live Tv" tvg-server="Server 1",ATN NEWS (1)
+#EXTINF:-1 tvg-name="ATN NEWS" group-title="Live Tv" tvg-server="Server 1",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-name="BanglaVision" group-title="Live Tv" tvg-server="Server 1",BanglaVision (1)
+#EXTINF:-1 tvg-name="BanglaVision" group-title="Live Tv" tvg-server="Server 1",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-name="Channel 24" group-title="Live Tv" tvg-server="Server 1",Channel 24 (1)
+#EXTINF:-1 tvg-name="Channel 24" group-title="Live Tv" tvg-server="Server 1",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1 tvg-name="Channel 9" group-title="Live Tv" tvg-server="Server 1",Channel 9 (1)
+#EXTINF:-1 tvg-name="Channel 9" group-title="Live Tv" tvg-server="Server 1",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1 tvg-name="Channel I" group-title="Live Tv" tvg-server="Server 1",Channel I (1)
+#EXTINF:-1 tvg-name="Channel I" group-title="Live Tv" tvg-server="Server 1",Channel I
 https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
 
-#EXTINF:-1 tvg-name="A Sports" group-title="Live Tv" tvg-server="Server 1",A Sports (1)
+#EXTINF:-1 tvg-name="A Sports" group-title="Live Tv" tvg-server="Server 1",A Sports
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="AL SUNNAH AL NABAWIYAH TV" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic" tvg-server="Server 1",AL SUNNAH AL NABAWIYAH TV (1)

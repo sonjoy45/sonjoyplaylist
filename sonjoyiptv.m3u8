@@ -225,64 +225,6 @@ http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 1
-http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 2
-http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",StarSports Select 1
-http://180.94.28.28:8097//Star-Sports-Select-1/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports Select 2
-http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 3
-http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 1 HD
-http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 2 HD
-http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 3 HD
-http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 5 HD
-http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTV Sports
-http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",A Sports
-http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",WILLOW_SPORTS
-http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-1
-http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-2
-http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Max HD
-http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
@@ -861,3 +803,64 @@ https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Truestory
 https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 1
+http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 2
+http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",StarSports Select 1
+http://180.94.28.28:8097//Star-Sports-Select-1/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports Select 2
+http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star Sports 3
+http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 1 HD
+http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 2 HD
+http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 3 HD
+http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Ten 5 HD
+http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PTV Sports
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",A Sports
+http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",WILLOW_SPORTS
+http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-1
+http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN-SPORTS-2
+http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sony Max HD
+http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8

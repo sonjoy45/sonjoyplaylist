@@ -1,4 +1,105 @@
 #EXTM3U
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sangsad
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",EKTTOR tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Banglavison
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Maasranga
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Deepto Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ananda TV
+https://sm-monirul.top/toffee/play/anandatv.m3u8
+
+
+#EXTINF:-1 tvg-name="",R tv
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
+
+
+#EXTINF:-1  tvg-name="",Bijoy TV
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
+
+
+#EXTINF:-1  tvg-name="",Desh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+
+#EXTINF:-1  tvg-name="",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-name="",Bangla TV
+https://sm-monirul.top/toffee/play/bangla_tv.m3u8
+
+
+#EXTINF:-1  tvg-name="",T Sports HD
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
+
+
+#EXTINF:-1  tvg-name="",Desh TV
+https://sm-monirul.top/toffee/play/desh_tv.m3u8
+
+
+#EXTINF:-1  tvg-name="",Ekhon TV
+https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
+
+
+#EXTINF:-1  tvg-name="",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-name="",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
@@ -222,116 +323,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 http://103.175.242.10:8080/metv/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sangsad
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",EKTTOR tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ATN NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Banglavison
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Maasranga
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Deepto Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel i
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ananda TV
-https://sm-monirul.top/toffee/play/anandatv.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",R tv
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bijoy TV
-https://sm-monirul.top/toffee/play/bijoytv.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Desh TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bangla TV
-https://sm-monirul.top/toffee/play/bangla_tv.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
-
-
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel S
 https://sm-monirul.top/toffee/play/channel_s.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Desh TV
-https://sm-monirul.top/toffee/play/desh_tv.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekhon TV
-https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY TEN Cricket
@@ -516,10 +517,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Islamic TV

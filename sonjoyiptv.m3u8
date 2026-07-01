@@ -18,6 +18,9 @@ http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
+#EXTINF:-1 tvg-name="",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
@@ -106,9 +109,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-
-#EXTINF:-1 tvg-name="",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 
 #EXTINF:-1  tvg-name="",MAASRANGA TV HD

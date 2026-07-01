@@ -3,11 +3,11 @@
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="",BTV
+#EXTINF:-1  tvg-logo="",BTV HD
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 
-#EXTINF:-1  tvg-logo="",Jamuna Tv
+#EXTINF:-1  tvg-logo="",Jamuna Tv HD
 http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8
 
 

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="71 TV" group-title="Live Tv" tvg-server="Server 1",Ekattor TV
+#EXTINF:-1 Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 

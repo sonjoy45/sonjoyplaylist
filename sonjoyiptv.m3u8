@@ -3,20 +3,19 @@
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Sangsad
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1  tvg-name="",BTV HD
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",EKTTOR tv
+#EXTINF:-1  tvg-name="",Channel 24
+http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",INDEPENDENT TV
@@ -67,7 +66,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://sm-monirul.top/toffee/play/anandatv.m3u8
 
 
-#EXTINF:-1 tvg-name="",R tv
+#EXTINF:-1 tvg-name="",R TV HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
 
 
@@ -86,10 +85,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 
 
-#EXTINF:-1  tvg-name="",T Sports HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462
-
-
 #EXTINF:-1  tvg-name="",Desh TV
 https://sm-monirul.top/toffee/play/desh_tv.m3u8
 
@@ -100,12 +95,6 @@ https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 
 #EXTINF:-1  tvg-name="",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-name="",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-
-#EXTINF:-1  tvg-name="",BTV HD
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 
 #EXTINF:-1  tvg-name="",Jamuna Tv HD
@@ -113,6 +102,13 @@ http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8
 
 #EXTINF:-1  tvg-name="",Jamuna Tv SD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Jamuna Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-name="",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 
 #EXTINF:-1  tvg-name="",MAASRANGA TV HD
@@ -139,10 +135,6 @@ http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
 
 
-#EXTINF:-1  tvg-name="",Channel 24
-http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
-
-
 #EXTINF:-1  tvg-name="",Channel 9
 http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8
 
@@ -151,16 +143,17 @@ http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8
 http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8
 
 
-#EXTINF:-1  tvg-name="",DBC News
-http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8
-
-
 #EXTINF:-1  tvg-name="",Independent TV
 http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
 
 
-#EXTINF:-1  tvg-name="",Rtv
+#EXTINF:-1  tvg-name="",RTV HD
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1  tvg-name="",Zee Bangla
